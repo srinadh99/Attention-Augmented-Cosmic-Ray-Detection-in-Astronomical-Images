@@ -1,4 +1,4 @@
-# Attention-Augmented-Cosmic-Ray-Detection-in-Astronomical-Images
+# Cosmic Ray rejection with attention augmented deep learning
 For any queries, please contact at srinadhml99@gmail.com
 
 This work has been accepted to the Elsevier Journal of Astronomy and Computing, 2022 https://www.sciencedirect.com/science/article/abs/pii/S2213133722000488. 
